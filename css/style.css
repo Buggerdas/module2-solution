@@ -41,7 +41,7 @@ div {
     margin: -3px -3px 0px;
     border: 3.5px solid black;
     text-align: center;
-    font-size: 125%;
+    font-size: 150%;
     font-weight: bold;
     background-color: burlywood;
 
@@ -49,13 +49,13 @@ div {
 
 .box2 {
     float: right;
-    color: white;
+    color: snow;
     width: 100px;
     padding: 5px;
     margin: -3px -3px 0px;
     border: 3.5px solid black;
     text-align: center;
-    font-size: 125%;
+    font-size: 150%;
     font-weight: bold;
     background-color: brown;
 
@@ -69,7 +69,7 @@ div {
      margin: -3px -3px 0px;
     border: 3.5px solid black;
     text-align: center;
-    font-size: 125%;
+    font-size: 150%;
     font-weight: bold;
     background-color: darkkhaki;
 
@@ -82,8 +82,11 @@ div {
     font-family: 'Times New Roman', Times, serif;
     color: black;
     margin: 3px ;
-    height: 150px;
+    height: 200px;
     overflow: auto;
+   font-style: italic;
+   font-size: large;
+    
 }
 
 .row {
