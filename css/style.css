@@ -23,7 +23,6 @@ p {
     position: relative;
     clear: right;
 }
-
 div {
     position: relative;
     background-color: skyblue;
@@ -33,7 +32,6 @@ div {
     margin-right: auto;
     margin-bottom: auto;
 }
-
 .box1 {
     float: right;
     width: 100px;
@@ -46,7 +44,6 @@ div {
     background-color: burlywood;
 
 }
-
 .box2 {
     float: right;
     color: snow;
@@ -60,7 +57,6 @@ div {
     background-color: brown;
 
 }
-
 .box3 {
     color: black;
     float: right;
@@ -74,8 +70,7 @@ div {
     background-color: darkkhaki;
 
 }
-
-.content {
+.Text {
     padding: 5px;
     border: none;
     background-color: skyblue;
