@@ -84,9 +84,6 @@ div {
     
 }
 
-.row {
-    width: 90%;
-}
 @media (min-width: 992px) {
     .column-lg-4 {
         float: left;
